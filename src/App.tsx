@@ -29,7 +29,7 @@ export default function App() {
           <div className="relative w-full bg-black aspect-video">
             <iframe
               id="vslVideo"
-              src="https://player.vimeo.com/video/1193649372?autoplay=1&title=0&byline=0&portrait=0&controls=0&dnt=1"
+              src="https://player.vimeo.com/video/1193649372?title=0&byline=0&portrait=0&controls=0&dnt=1"
               allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media"
               allowFullScreen
               className="w-full h-full border-none"
